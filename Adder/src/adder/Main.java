@@ -9,6 +9,9 @@ public class Main {
         } catch (Exception e) {
             System.err.println("Please provide two integers to add");
         }
+	  catch (NumberFormatException e){
+            System.err.println("Please provide integers in your array.");
+	}
     }
 
     private static int addArguments(String[] args) {
