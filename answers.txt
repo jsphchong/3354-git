@@ -5,4 +5,4 @@ any commitments are to be made.
 d) Unstaged files are files where change history is recorded but are not staged for the next commit, Untracked files
 do not have their change history recorded
 e) Git checkout allows you to create a branch and to switch to it, Git reset allows you to eliminate previous commits permanently
-f) The changes are overwritten and the former local changes are forgotten
+f) The changes are overwritten and the former local changes are forgotten.
